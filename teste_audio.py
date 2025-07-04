@@ -1,6 +1,7 @@
 from elevenlabs import generate, play, set_api_key
+import os
 
-set_api_key("Ssk_d6c910bf0b27948ca665d7464f17bd0d4c50afe0e6cc7130")
+set_api_key(os.environ["ELEVENLABS_API_KEY"])
 
 audio = generate(
     text="Hello! This is a test using ElevenLabs.",

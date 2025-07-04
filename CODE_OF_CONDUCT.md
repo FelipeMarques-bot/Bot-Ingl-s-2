@@ -8,26 +8,26 @@ Como membros, colaboradores e líderes, comprometemo-nos a tornar a participaç�
 
 ## 💬 Comportamento Esperado
 
-- Demonstre empatia e gentileza com os outros
-- Respeite opiniões, pontos de vista e experiências diferentes
-- Dê e aceite feedback de forma construtiva
-- Aceite responsabilidades e peça desculpas por seus erros
-- Foque no que é melhor para a comunidade
+- Demonstre empatia e gentileza com os outros  
+- Respeite opiniões, pontos de vista e experiências diferentes  
+- Dê e aceite feedback de forma construtiva  
+- Aceite responsabilidades e peça desculpas por seus erros  
+- Foque no que é melhor para a comunidade  
 
 ## 🚫 Comportamento Inaceitável
 
-- Uso de linguagem ou imagens sexualizadas
-- Comentários ofensivos, insultuosos ou depreciativos
-- Assédio público ou privado
-- Divulgação de informações privadas de outras pessoas
-- Qualquer outro comportamento que possa causar desconforto
+- Uso de linguagem ou imagens sexualizadas  
+- Comentários ofensivos, insultuosos ou depreciativos  
+- Assédio público ou privado  
+- Divulgação de informações privadas de outras pessoas  
+- Qualquer outro comportamento que possa causar desconforto  
 
 ## 📢 Aplicação
 
-Casos de comportamento abusivo, assédio ou outros comportamentos inaceitáveis podem ser reportados para a equipe de manutenção pelo e-mail: seuemail@email.com. Todas as queixas serão revisadas e investigadas com seriedade.
+Casos de comportamento abusivo, assédio ou outros comportamentos inaceitáveis podem ser reportados para a equipe de manutenção pelo e-mail: **felipedacruzmarques23@gmail.com**.  
+Todas as queixas serão revisadas e investigadas com seriedade.
 
 ## 📃 Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.1.
-
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.1.  
 [homepage]: https://www.contributor-covenant.org

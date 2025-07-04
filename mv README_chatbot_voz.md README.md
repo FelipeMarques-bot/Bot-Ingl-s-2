@@ -1,6 +1,6 @@
 # 🤖 ChatBot Voz: Analisador de Fala em Inglês
 
-Este projeto é um chatbot inteligente desenvolvido para **interações em inglês com análise da fala por áudio**. A ferramenta permite que o usuário envie um áudio com sua pronúncia e receba feedback de correção, promovendo o aprendizado prático da língua inglesa.
+Este projeto é um chatbot inteligente desenvolvido para interações em inglês com análise da fala por áudio. A ferramenta permite que o usuário envie um áudio com sua pronúncia e receba feedback de correção, promovendo o aprendizado prático da língua inglesa.
 
 ## 📌 Funcionalidades
 

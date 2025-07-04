@@ -30,6 +30,9 @@ npm start
 
 Será exibido um QR Code no terminal. Escaneie com o WhatsApp para autenticar.
 
+A pasta `audio/` usada para salvar os arquivos temporários é criada
+automaticamente quando o bot recebe um áudio.
+
 ## Implantação
 
 Você pode implantar este bot em plataformas gratuitas como Railway ou Heroku. Certifique-se de definir as variáveis de ambiente no painel da plataforma e utilizar `npm start` como comando de inicialização.

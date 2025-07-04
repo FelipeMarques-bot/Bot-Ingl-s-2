@@ -32,6 +32,13 @@ async function handleAudioTreino(msg, client) {
   const transcricao = await transcreveAudio(audioPath);
   console.log(`📝 Transcrição: ${transcricao}`);
 
+  try {
+    fs.unlinkSync(audioPath);
+    console.log(`🗑️ Áudio removido: ${audioPath}`);
+  } catch (err) {
+    console.error(`❌ Erro ao remover o arquivo ${audioPath}:`, err);
+  }
+
   if (!transcricao || transcricao.trim().length === 0 || transcricao === 'Transcrição vazia.') {
     await client.sendMessage(user, '❌ Não consegui entender sua pronúncia. Tente falar mais pausadamente ou com menos ruído.');
     return;

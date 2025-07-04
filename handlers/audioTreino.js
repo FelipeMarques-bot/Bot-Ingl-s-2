@@ -22,8 +22,12 @@ async function handleAudioTreino(msg, client) {
   }
 
   const buffer = Buffer.from(media.data, 'base64');
+  const audioDir = path.join(__dirname, '..', 'audio');
+  if (!fs.existsSync(audioDir)) {
+    fs.mkdirSync(audioDir, { recursive: true });
+  }
   const filename = `audio_${Date.now()}.ogg`;
-  const audioPath = path.join(__dirname, '..', 'audio', filename);
+  const audioPath = path.join(audioDir, filename);
   fs.writeFileSync(audioPath, buffer);
   console.log(`✅ Áudio salvo: ${audioPath}`);
 
